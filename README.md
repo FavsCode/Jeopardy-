@@ -33,3 +33,38 @@ A fairly accurate copy of *Jeopardy!* adapted for a classroom setting with teams
 - Up to 6 teams in play
 - Team naming
 - *Final Jeopardy!*
+
+## Usage
+
+**1. Clone/Download the repository**
+   
+  ```bash
+  git clone https://github.com/FavsCode/Jeopardy-in-Python.git
+  cd Jeopardy-in-Python
+  ```
+
+**2. Create and activate a virtual environment (optional, but recommended)**
+   
+*If on Mac or Linux*
+
+  ```bash
+  python -m venv venv
+  source venv/bin/activate
+  ```
+
+*If on Windows*
+
+  ```bash
+  python -m venv venv
+  source venv\Scripts\activate
+  ```
+
+**3. Install the required dependencies**
+   
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+## Project Structure
+
+N/A
