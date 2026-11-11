@@ -36,6 +36,10 @@ A fairly accurate copy of *Jeopardy!* adapted for a classroom setting with teams
 
 ## Usage
 
+### Make sure you have Git installed to run the program! 
+
+Install Git at: https://git-scm.com/install/source
+
 **1. Clone/Download the repository**
    
   ```bash
