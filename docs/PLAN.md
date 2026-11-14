@@ -9,9 +9,11 @@
 ### Base UI (User Interface)
 
 - [/] Create plain blue canvas
-- [ ] Add a grid
-- [ ] Put in numberings
-- [ ] Add a placeholder in a corner for team scores
+- [/] Create header
+- [/] Add a grid
+- [/] Put in numberings
+- [ ] Create team scores window
+- [ ] Add the teams & placeholder scores
 
 ### Logic
 

@@ -8,11 +8,10 @@
 
 - Python
 - Tkinter
-- VisualTkinter.com
 
 ## Current Functionality
 
-A blank, blue board.
+A non-functioning *Jeopardy!* board imitation.
 
 ## Planned Functionality
 
